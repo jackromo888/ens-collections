@@ -12,7 +12,7 @@
   "private": true,
   "dependencies": {
     "csv": "^6.1.0",
-    "ethers": "^5.6.8",
+    "ethers": "^6.0.0",
     "idna-uts46-hx": "^4.0.0",
     "yargs": "^17"
   }
